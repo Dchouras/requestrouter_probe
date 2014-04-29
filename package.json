@@ -1,8 +1,0 @@
-{
-  "name": "webapp",
-  "version": "0.0.0",
-  "scripts": {
-    "build" : "node node.js",
-    "start": "node main.js"
-  }
-}
